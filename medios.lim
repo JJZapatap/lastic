@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>LOS MEDIOS DE TRANSPORTE</titulo>
+        <subtitulo>Tipos y usos</subtitulo>
+        <autor>JJZAPATA</autor>
+        <logo>avioncito.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="14" posy="-1">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva4.JPG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva5.JPG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva6.JPG</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva7.JPG</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <parellas>AMBULANCIA.png</parellas>
+              <parellas>avioncito.png</parellas>
+              <parellas>barquito.png</parellas>
+              <parellas>GLOBO.png</parellas>
+              <parellas>MOTO.png</parellas>
+              <parellas>HELICOPTERO.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>3</tipo>
+              <imaxe>MI_BARCO.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>20</tipo>
+              <pe>Arrastra la etiqueta a su lugar correspondiente</pe>
+              <imaxe>MI_BARCO.jpg</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="64" posy="70">Capitan</etiqueta>
+              <etiqueta posx="12" posy="136">Proa</etiqueta>
+              <etiqueta posx="310" posy="45">Chimenea</etiqueta>
+              <etiqueta posx="191" posy="147">Ventana</etiqueta>
+              <etiqueta posx="114" posy="220">Ancla</etiqueta>
+              <etiqueta posx="65" posy="290">Mar</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <imfondo  posx="43" posy="13">HELICOPTERO.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Helicoptero</resp>
+              <rdim>20</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="AMBULANCIA.png">Ambulancia</sopa>
+              <sopa enun="avioncito.png">Avion</sopa>
+              <sopa enun="barquito.png">Barco</sopa>
+              <sopa enun="HELICOPTERO.png">Helicoptero</sopa>
+              <sopa enun="GLOBO.png">Globo</sopa>
+              <sopa enun="MOTO.png">Moto</sopa>
+              <sopa enun="NINNO1.png">Niños</sopa>
+              <sopa enun="NINNO2.png">Niño</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="13" >
+              <tipo>20</tipo>
+              <pe>Arrastra la etiqueta a su lugar correspondiente</pe>
+              <imaxe>MI_BARCO.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="64" posy="70">Capitan</etiqueta>
+              <etiqueta posx="12" posy="136">Proa</etiqueta>
+              <etiqueta posx="310" posy="45">Chimenea</etiqueta>
+              <etiqueta posx="191" posy="147">Ventana</etiqueta>
+              <etiqueta posx="114" posy="220">Ancla</etiqueta>
+              <etiqueta posx="65" posy="290">Mar</etiqueta>
+        </paxina>
+    </libro>
+</lim>
